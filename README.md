@@ -1,0 +1,2 @@
+# OutlookSampleRibbon
+VSTO Outlook Sample
